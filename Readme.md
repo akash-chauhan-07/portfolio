@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://akash-chauhan-07.github.io/portfolio/
+> https://akashc-hub.github.io/portfolio/
 
 :star: Star me on GitHub — it helps!
 
